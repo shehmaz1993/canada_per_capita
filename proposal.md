@@ -3,6 +3,9 @@
 ## 1. Research Question
 Can we accurately model and forecast Canada's future per capita income (in USD) using historical annual time-series data and Simple Linear Regression?
 
+*Methodology Note:* Model performance will be evaluated using Mean Squared Error (MSE) and the Coefficient of Determination (R^2 score).
+
+
 ## 2. Dataset Information
 * **Source:** Kaggle / World Bank Data
 * **Link:** https://www.kaggle.com/datasets/mfaisalqureshi/canada-per-capita-income
