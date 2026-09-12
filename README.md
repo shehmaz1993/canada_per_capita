@@ -1,2 +1,2 @@
 # Canada Per Capita Income Prediction
-Predicting Canada's per capita income based on historical year-by-year data using Simple Linear Regression.
+Proposal branch summary: Machine learning regression model for predicting future Canadian per capita income.
